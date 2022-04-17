@@ -158,15 +158,15 @@ table {
 }
 
 .sw1 {
-    background-image: url(../images/bg_QA-02.png);
+    background-image: url(https://maia-collab.github.io/project2/images/bg_QA-02.png);
     background-size: cover;
 } 
 .sw2 {
-    background-image: url(../images/bg_index-01.png);
+    background-image: url(https://maia-collab.github.io/project2/images/bg_index-01.png);
     background-size: cover;
 }
 .sw3 {
-    background-image: url(../images/bg_course-03.png);
+    background-image: url(https://maia-collab.github.io/project2/images/bg_course-03.png);
     background-size: cover;
 }
 .swiper-pagination-bullet {
